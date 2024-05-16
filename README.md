@@ -1,11 +1,10 @@
 Aerofit is a leading brand in the field of fitness equipment. 
 Aerofit provides a product range including machines such as treadmills, exercise bikes, gym equipment, and fitness accessories to cater to the needs of all categories of people.
 
-GOAL is:
-The market research team at AeroFit wants to identify the characteristics of the target audience for each type of treadmill offered by the company, 
-to provide a better recommendation of the treadmills to the new customers. 
-The team decides to investigate whether there are differences across the product with respect to customer characteristics.1. 
-1. A descriptive analytics was performed to create a customer profile for each AeroFit treadmill product by developing appropriate tables and charts.
+GOAL of DATA ANALYSIS:
+Data was analyzed to identify the characteristics of the target audience for each type of treadmill offered by the company, to provide a better recommendation of the treadmills to the new customers. 
+The differences across the product with respect to customer characteristics was investigated using: 
+1. Descriptive analytics to create a customer profile for each AeroFit treadmill product by developing appropriate tables and charts.
 2. For each AeroFit treadmill product, a two-way contingency tables was constructed and all conditional and marginal probabilities was computed along with their insights/impact on the business
 
 DATASET:
